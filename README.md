@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brian-d-b
-- 👀 I’m interested in IT, Operations, and Automation
-- 🌱 I’m currently learning DevOps/SysAdmin tools
+- 👀 I’m interested in IT, Automation, and Security
+- 🌱 I’m currently studying for CCNP, and going through TryHackMe
 
 I'm currently working in the MSP space, and one of my greatest interests is learning how to automate my work more efficiently.
 
