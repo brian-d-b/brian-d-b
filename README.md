@@ -8,8 +8,8 @@ Huge fan of Keyboard shortcuts
 - https://brian-d-b.github.io/stop-clicking/
 
 CTFs:
-Hivestorm 2023
-https://github.com/brian-d-b/Hivestorm
+- Hivestorm 2023
+- https://github.com/brian-d-b/Hivestorm
 
 
 <!---
