@@ -11,7 +11,7 @@ I enjoy working at MSP / MSSPs, and automating / fixing up client environments.
 - MS-900 (Current)
 
 
-##### Certifications
+##### Pages
 Huge fan of Keyboardshortcuts
 - https://brian-d-b.github.io/stop-clicking/
 
