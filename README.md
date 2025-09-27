@@ -10,9 +10,3 @@ I enjoy working at MSP / MSSPs, and automating / fixing up client environments.
 - AZ-104 (Current)
 - MS-900 (Current)
 
-
-##### Pages
-Huge fan of Keyboardshortcuts
-- https://brian-d-b.github.io/stop-clicking/
-
-
